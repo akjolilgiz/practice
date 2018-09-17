@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>World Index!</title>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+    <link rel="stylesheet" href="~/css/Home.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class ="jumbotron">
+        <h1>World Index</h1>
+      </div>
+      <ul>
+        <h2>Featured Country</h2>
+        <li>@Model.GetName()</li>
+        <li>@Model.GetCode()</li>
+        <li>@Model.GetContinent()</li>
+        <li>@Model.GetPopulation()</li>
+        <li>@Model.GetLN()</li>
+        <li>@Model.GetGF()</li>
+      </ul>
+
+      <a href="/cities"><button class="btn btn-info">Cities</button></a>
+      <a href="/countries"><button class="btn btn-info">Countries</button></a>
+    </div>
+
+  </body>
+</html>

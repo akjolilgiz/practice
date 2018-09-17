@@ -1,0 +1,40 @@
+<p>Filter list.<p>
+<form action="/countries" method="post">
+  <div class="form-group">
+    <select class="form-control" name="category" id="category">
+      <option>Code</option>
+      <option>Name</option>
+      <option>Continent</option>
+      <option>Population</option>
+      <option>LocalName</option>
+      <option>GovernmentForm</option>
+    </select>
+
+    <select class="form-control" name="operator" id="operator">
+      <option>=</option>
+      <option>!=</option>
+      <option>></option>
+      <option><</option>
+      <option>>=</option>
+      <option><=</option>
+    </select>
+
+    <label for="input">Input: </label>
+    <input id="input" name="input" type="text" class="form-control">
+  </div>
+  <br>
+  <button type="submit" class="btn btn-info">Filter</button>
+</form>
+<br>
+<ul>
+@foreach (var country in Model)
+{
+<li>Country Code: @country.GetCode()</li>
+<li>Name: @country.GetName()</li>
+<li>Continent: @country.GetContinent()</li>
+<li>Population: @country.GetPopulation()</li>
+<li>Local Name: @country.GetLN()</li>
+<li>Government Form: @country.GetGF()</li>
+<br>
+}
+</ul>

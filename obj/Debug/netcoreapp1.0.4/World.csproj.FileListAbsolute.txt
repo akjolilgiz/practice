@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/World.Solution/World/bin/Debug/netcoreapp1.0.4/World.deps.json
+/Users/Guest/Desktop/World.Solution/World/bin/Debug/netcoreapp1.0.4/World.runtimeconfig.json
+/Users/Guest/Desktop/World.Solution/World/bin/Debug/netcoreapp1.0.4/World.runtimeconfig.dev.json
+/Users/Guest/Desktop/World.Solution/World/obj/Debug/netcoreapp1.0.4/World.AssemblyInfo.cs
+/Users/Guest/Desktop/World.Solution/World/bin/Debug/netcoreapp1.0.4/World.dll
+/Users/Guest/Desktop/World.Solution/World/bin/Debug/netcoreapp1.0.4/World.pdb
+/Users/Guest/Desktop/World.Solution/World/obj/Debug/netcoreapp1.0.4/World.dll
+/Users/Guest/Desktop/World.Solution/World/obj/Debug/netcoreapp1.0.4/World.pdb
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/bin/Debug/netcoreapp1.0.4/World.deps.json
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/bin/Debug/netcoreapp1.0.4/World.runtimeconfig.json
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/bin/Debug/netcoreapp1.0.4/World.runtimeconfig.dev.json
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/bin/Debug/netcoreapp1.0.4/World.dll
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/bin/Debug/netcoreapp1.0.4/World.pdb
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/obj/Debug/netcoreapp1.0.4/World.csproj.CoreCompileInputs.cache
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/obj/Debug/netcoreapp1.0.4/World.AssemblyInfo.cs
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/obj/Debug/netcoreapp1.0.4/World.dll
+/Users/akjoljaenbai/Desktop/World.Mysql-Csharp-master/World/obj/Debug/netcoreapp1.0.4/World.pdb
